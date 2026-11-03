@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\hr\svoistva\svoistva\bin\Debug\net8.0\svoistva.exe
+C:\Users\Student\Desktop\hr\svoistva\svoistva\bin\Debug\net8.0\svoistva.deps.json
+C:\Users\Student\Desktop\hr\svoistva\svoistva\bin\Debug\net8.0\svoistva.runtimeconfig.json
+C:\Users\Student\Desktop\hr\svoistva\svoistva\bin\Debug\net8.0\svoistva.dll
+C:\Users\Student\Desktop\hr\svoistva\svoistva\bin\Debug\net8.0\svoistva.pdb
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\svoistva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\svoistva.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\svoistva.AssemblyInfo.cs
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\svoistva.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\svoistva.dll
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\refint\svoistva.dll
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\svoistva.pdb
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\svoistva.genruntimeconfig.cache
+C:\Users\Student\Desktop\hr\svoistva\svoistva\obj\Debug\net8.0\ref\svoistva.dll
